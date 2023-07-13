@@ -1,4 +1,4 @@
-# Sobre o Calculadora de Polígonos Java
+# java-polygon-calculator
  * Criada durante a Atividade de Estudo I (Disciplina: Programação II) do curso de graduação em Análise e Desenvolvimento de Sistemas da UNICESUMAR;
  * O objetivo da calculadora é calcular a área de figuras geométricas (triâgulo e retângulo).
 
